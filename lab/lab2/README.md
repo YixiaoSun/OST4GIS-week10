@@ -11,6 +11,4 @@ This assignment is relatively open ended. Here are a few tasks you should comple
 - Use the 'Wizards' tab, try three of the analysis types that seem especially interesting
 - Pick the analysis type that looked the best; export the analysis to GeoJSON; you can
   reload this in Carto or use L.geoJson to map it
-- Check out the public dataset library. As a stretch goal, see if you can pull of a spatial join
-  between two different tables/datasets
-
+- Check out the public dataset library. As a stretch goal, see if you can pull of a spatial join between two different tables/datasets
